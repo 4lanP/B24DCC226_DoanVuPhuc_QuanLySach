@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Quản lý thư viện</string>
+    <string name="login_title">Thư viện sách</string>
+    <string name="login_subtitle">Đăng nhập để tiếp tục</string>
+    <string name="username_hint">Nhập tên đăng nhập</string>
+    <string name="password_hint">Nhập mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="sample_account_hint">Tài khoản mẫu: admin / 123456</string>
+    <string name="err_empty_credentials">Vui lòng nhập đầy đủ tên đăng nhập và mật khẩu</string>
+    <string name="err_wrong_credentials">Sai tên đăng nhập hoặc mật khẩu</string>
+
+    <string name="my_library_title">Thư viện của tôi</string>
+    <string name="stat_total">Tổng số sách</string>
+    <string name="stat_read">Đã đọc</string>
+    <string name="stat_unread">Chưa đọc xong</string>
+    <string name="section_book_list">Danh sách sách</string>
+    <string name="btn_add_book">+ Thêm sách</string>
+    <string name="tap_to_view_detail">(nhấn vào một cuốn sách để xem chi tiết)</string>
+
+    <string name="add_book_title">Thêm sách</string>
+    <string name="book_name_label">Tên sách</string>
+    <string name="book_name_hint">Ví dụ: Đắc nhân tâm</string>
+    <string name="author_label">Tác giả</string>
+    <string name="author_hint">Ví dụ: Dale Carnegie</string>
+    <string name="category_label">Thể loại</string>
+    <string name="reading_status_label">Tình trạng đọc</string>
+    <string name="status_not_read">Chưa đọc</string>
+    <string name="status_reading">Đang đọc</string>
+    <string name="status_read_done">Đã đọc</string>
+    <string name="rating_label">Đánh giá</string>
+    <string name="note_label">Ghi chú</string>
+    <string name="note_hint">Nhập ghi chú (nhiều dòng)...</string>
+    <string name="btn_save_book">Lưu sách</string>
+    <string name="err_empty_book_name">Tên sách không được để trống</string>
+    <string name="err_empty_author">Tác giả không được để trống</string>
+
+    <string name="detail_title">Chi tiết sách</string>
+    <string name="btn_mark_as_read">Đánh dấu đã đọc</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_delete_book">Xóa sách</string>
+    <string name="confirm_delete_title">Xác nhận xóa</string>
+    <string name="confirm_delete_msg">Bạn có chắc chắn muốn xóa cuốn sách này khỏi thư viện?</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_confirm_delete">Xóa</string>
+</resources>

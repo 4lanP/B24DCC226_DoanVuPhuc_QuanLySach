@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand colors -->
+    <color name="primary">#00695C</color>
+    <color name="primary_dark">#004D40</color>
+    <color name="primary_light">#E0F2F1</color>
+    <color name="primary_variant">#00796B</color>
+    <color name="accent">#00897B</color>
+
+    <!-- Neutral & Background -->
+    <color name="background">#F4F6F8</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_border">#E2E8F0</color>
+    <color name="text_primary">#111111</color>
+    <color name="text_secondary">#777777</color>
+    <color name="text_muted">#888888</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Status Tags -->
+    <color name="status_reading">#E65100</color>
+    <color name="status_reading_bg">#FFF3E0</color>
+    <color name="status_read">#2E7D32</color>
+    <color name="status_read_bg">#E8F5E9</color>
+    <color name="status_unread">#616161</color>
+    <color name="status_unread_bg">#F5F5F5</color>
+
+    <!-- Category tag -->
+    <color name="category_text">#00796B</color>
+    <color name="category_bg">#E0F2F1</color>
+
+    <!-- Functional colors -->
+    <color name="star_color">#FFB300</color>
+    <color name="danger">#EF4444</color>
+    <color name="danger_dark">#DC2626</color>
+    <color name="danger_light">#FEE2E2</color>
+    <color name="input_border">#CBD5E1</color>
+    <color name="input_bg">#FFFFFF</color>
+</resources>
